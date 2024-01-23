@@ -86,3 +86,7 @@ working => remove the changes
   
   
   Creates an alias (a shortcut)
+
+
+Local repository = a git repository saved on our computer 
+Remote repository = a git repository saved online (for example on GitHub) 

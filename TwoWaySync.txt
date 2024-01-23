@@ -1,0 +1,14 @@
+ ///// GitHub 
+
+
+ Repository = a folder containing code where any changes to the code are tracked by git. 
+ (To create a repository, we create a new folder on our computer, and then run  git init  )
+
+
+  GitHub = a service that lets us save our git repositories online. It also helps us: 
+ -   backup our code in case we delete it on our computer 
+ -   see the history of our code changes more easily 
+ -   alternatives include Bitbucket and GitLab
+
+
+ 
