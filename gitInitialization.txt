@@ -77,3 +77,12 @@ Remove from staging => working
 #git checkout -- .
 
 working => remove the changes
+
+ #git checkout  <commit_hash|branch_name>   
+ 
+ View a previous commit 
+
+#git config  --global alias.shortcut  <command>   
+  
+  
+  Creates an alias (a shortcut)
