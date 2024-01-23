@@ -2,3 +2,72 @@
 
 
 https://git-scm.com/
+
+# ~ command 
+
+#ls
+
+List the files and folders in the current folder
+
+#cd  ~/Desktop/folder
+
+Change the folder that the command line is
+running in
+
+#git init
+
+Git will start tracking all changes in the current folder
+
+#git status
+
+Show all changes since the previous commit
+
+#git add <file|folder>
+
+Pick changes to go into next commit
+
+#git add file
+
+Pick individual file
+
+#git add folder/
+
+Pick all files inside a folder (and subfolders)
+
+#git add . 
+
+Pick all files (in folder command line is running in)
+
+git commit -m "message" 
+
+Creates a commit with a message attached
+
+
+#git commit -m "message" --amend 
+
+Update previous commit instead of creating new one
+ 
+\\\\\\\\Configure Name & Email for Commits\\\\\\\\
+
+
+#git config --global user.name "Your Name"
+git config --global user.email "email@example.com"
+
+
+#git log 
+
+View the commit history
+
+#git log --all 
+
+
+Show all commits (not just current branch)
+
+#git reset <file|folder>
+#git reset file
+#git reset folder/
+#git reset .
+
+
+Remove from staging => working
+
