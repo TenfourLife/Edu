@@ -11,4 +11,35 @@
  -   alternatives include Bitbucket and GitLab
 
 
+#git remote add  <remote_name_nickname> <url>  
+  
+Link a local repository to a remote repository and give a name for this link 
+
+#git remote   
  
+ List all remote repositories that are linked
+
+#git remote -v   
+  
+  List all remote repositories (but with more detail) 
+
+#git remote remove  <remote_name>   
+ 
+ Removes a link to a remote repository.
+
+#git remote remove  origin   
+  
+Removes the link to the remote repository named 
+ "origin
+
+
+#git config  --global credential.username  <username>
+
+
+#git log  --all --graph
+
+ Shows the branches visually in the histor
+
+
+
+
