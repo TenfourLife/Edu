@@ -71,3 +71,9 @@ Show all commits (not just current branch)
 
 Remove from staging => working
 
+#git checkout -- <file|folder>
+#git checkout -- file
+#git checkout -- folder/
+#git checkout -- .
+
+working => remove the changes
